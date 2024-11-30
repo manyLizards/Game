@@ -3,12 +3,14 @@ import pygame
 import random
 
 # Initialize pygame
-pygame.init()
+def main():
+    pygame.init()
+    # Screen dimensions
+    SCREEN_WIDTH = 800
+    SCREEN_HEIGHT = 600
+    screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
-# Screen dimensions
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
-screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+
 pygame.display.set_caption("Catch the Falling Objects")
 
 # Colors
