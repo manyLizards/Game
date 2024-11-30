@@ -1,5 +1,5 @@
 # Game
-So far, this is a simple catch the falling objects game with simple shapes. Currently working on a way for users to play without having to download anything. For now, if you'd like to play, you have to download a couple things to play.
+So far, this is a simple catch the falling objects game with simple shapes. Currently working on a way for users to play without having to download anything. For now, if you'd like to play, you'll have to download a couple things.
 
 ## Step 1: Install Python
 Download and install Python from the [official Python website](https://www.python.org/downloads/)
