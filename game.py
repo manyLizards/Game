@@ -1,3 +1,10 @@
+# TODO: Planned Features and Updates
+# 1. Increase the speed of the falling objects as the score increases
+# 2. Add objects that provide bonus points
+# 3. Add objects that deduct points or end the game
+# 4. Enhance graphics (Replace the rectangles with images using pygame.image.load())
+# 5. Add sound effects using pygame.mixer
+
 # SETUP & INITIALIZE
 import pygame
 import random
