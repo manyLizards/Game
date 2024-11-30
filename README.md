@@ -21,3 +21,7 @@ Download the ZIP file and extract it.
 Navigate to the folder containing game.py in the terminal and run the game by typing
 
 `python game.py`
+
+# Features and Updates
+You can always check upcoming updates within the game file `game.py` at the top of the file.
+Currently, I am working on increasing the speed of the falling objects every time you catch one.
