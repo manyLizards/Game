@@ -1,8 +1,9 @@
 # TODO: Planned Features and Updates
-# 1. Add objects that provide bonus points
-# 2. Add objects that deduct points or end the game
-# 3. Enhance graphics (Replace the rectangles with images using pygame.image.load())
-# 4. Add sound effects using pygame.mixer
+# 1. Reformat for users
+# 2. Add objects that provide bonus points
+# 3. Add objects that deduct points or end the game
+# 4. Enhance graphics (Replace the rectangles with images using pygame.image.load())
+# 5. Add sound effects using pygame.mixer
 
 # SETUP & INITIALIZE
 import pygame

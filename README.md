@@ -25,4 +25,7 @@ Navigate to the folder containing game.py in the terminal and run the game by ty
 # Features and Updates
 You can always check upcoming updates within the game file `game.py` at the top of the file.
 
-Currently, I am working on increasing the speed of the falling objects every time you catch one.
+Right now I am currently working on a way to format the game so users/players do not have to download python or pygame.
+
+## UPDATE 12/1/24
+The speed of the falling objects now increases every time one is caught.
