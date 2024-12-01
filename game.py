@@ -1,9 +1,8 @@
 # TODO: Planned Features and Updates
-# 1. Increase the speed of the falling objects as the score increases
-# 2. Add objects that provide bonus points
-# 3. Add objects that deduct points or end the game
-# 4. Enhance graphics (Replace the rectangles with images using pygame.image.load())
-# 5. Add sound effects using pygame.mixer
+# 1. Add objects that provide bonus points
+# 2. Add objects that deduct points or end the game
+# 3. Enhance graphics (Replace the rectangles with images using pygame.image.load())
+# 4. Add sound effects using pygame.mixer
 
 # SETUP & INITIALIZE
 import pygame
@@ -74,6 +73,7 @@ while running:
         score += 1
         object_y = -object_height
         object_x = random.randint(0, SCREEN_WIDTH - object_width)
+        object_speed += 1
         
     # Drawing
     screen.fill(WHITE)
